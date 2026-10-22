@@ -1,1 +1,1 @@
-# fair-data-engineering-epl-2024-25
+# FAIR Data 2026 Project
